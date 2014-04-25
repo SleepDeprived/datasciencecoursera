@@ -1,10 +1,10 @@
 {
-    "contents" : "data_scientist_toolbox_exercises.R",
+    "contents" : "data_scientist_toolbox_exercises.R,",
     "created" : 1398393386865.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "106370382",
+    "hash" : "1907931372",
     "id" : "DAE8FC86",
     "lastKnownWriteTime" : 1398393440,
     "path" : "~/code_for_courses/data_science_toolbox/data_scientist_toolbox_exercises.R",
